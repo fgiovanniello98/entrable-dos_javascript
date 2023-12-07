@@ -1,18 +1,18 @@
 // Array de productos
 const products = [
-  {
-    "id": 3,
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-    "price": 700,
-    "description": "De nuestra colección Legends, el Naga se inspiró en el mítico dragón de agua que protege la perla del océano. Úselo mirando hacia adentro para recibir amor y abundancia, o hacia afuera para protección..",
-    "category": "Joyeria",
-    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-    "rating": {
-    "rate": 4.6,
-    "count": 400
-    }
-    },
-    {
+        {
+        "id": 3,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price": 700,
+        "description": "De nuestra colección Legends, el Naga se inspiró en el mítico dragón de agua que protege la perla del océano. Úselo mirando hacia adentro para recibir amor y abundancia, o hacia afuera para protección..",
+        "category": "Joyeria",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+        "rate": 4.6,
+        "count": 400
+        }
+        },
+        {
         "id": 1,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "price": 109,
@@ -37,17 +37,17 @@ const products = [
         }
         },
         {
-          "id": 5,
-          "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-          "price": 64,
-          "description": "Compatibilidad con USB 3.0 y USB 2.0 Transferencias de datos rápidas Mejora el rendimiento de la PC Alta capacidad; Compatibilidad NTFS formateado para Windows 10, Windows 8.1, Windows 7; Es posible que sea necesario volver a formatear para otros sistemas operativos; La compatibilidad puede variar según la configuración del hardware y el sistema operativo del usuario.",
-          "category": "Electronica",
-          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-          "rating": {
-          "rate": 3.3,
-          "count": 203
-          }
-          },
+        "id": 5,
+        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "price": 64,
+        "description": "Compatibilidad con USB 3.0 y USB 2.0 Transferencias de datos rápidas Mejora el rendimiento de la PC Alta capacidad; Compatibilidad NTFS formateado para Windows 10, Windows 8.1, Windows 7; Es posible que sea necesario volver a formatear para otros sistemas operativos; La compatibilidad puede variar según la configuración del hardware y el sistema operativo del usuario.",
+        "category": "Electronica",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": {
+        "rate": 3.3,
+        "count": 203
+        }
+        },
 
         {
         "id": 4,
@@ -62,17 +62,17 @@ const products = [
         }
         },
         {
-          "id": 8,
-          "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-          "price": 30,
-          "description": "100 % POLIURETANO (cubierta) 100 % POLIÉSTER (forro) 75 % POLIÉSTER 25 % ALGODÓN (SUÉTER), Material de piel sintética para estilo y comodidad / 2 bolsillos delanteros, Chaqueta de piel sintética estilo mezclilla con capucha 2 por uno, Detalle de botones en cintura / Detalle de costuras en los costados, LAVAR SOLAMENTE A MANO / NO USAR LEJÍA / SECAR AL tendedero / NO PLANCHAR",
-          "category": "Ropa de mujer",
-          "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-          "rating": {
-          "rate": 2.9,
-          "count": 340
-          }
-          },
+        "id": 8,
+        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "price": 30,
+        "description": "100 % POLIURETANO (cubierta) 100 % POLIÉSTER (forro) 75 % POLIÉSTER 25 % ALGODÓN (SUÉTER), Material de piel sintética para estilo y comodidad / 2 bolsillos delanteros, Chaqueta de piel sintética estilo mezclilla con capucha 2 por uno, Detalle de botones en cintura / Detalle de costuras en los costados, LAVAR SOLAMENTE A MANO / NO USAR LEJÍA / SECAR AL tendedero / NO PLANCHAR",
+        "category": "Ropa de mujer",
+        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": {
+        "rate": 2.9,
+        "count": 340
+        }
+        },
         {
         "id": 6,
         "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
