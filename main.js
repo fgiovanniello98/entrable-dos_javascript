@@ -105,7 +105,6 @@ const allCategories = Array.from(new Set(products.map(product => product.categor
 
 // Filtrar productos por categorías seleccionadas
 const selectedCategories = allCategories;
-
 const filteredProducts = products.filter(product => selectedCategories.includes(product.category));
 
 // Saludar al usuario y dar la bienvenida a la tienda
